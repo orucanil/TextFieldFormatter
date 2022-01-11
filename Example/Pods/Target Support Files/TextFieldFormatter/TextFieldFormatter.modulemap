@@ -1,0 +1,6 @@
+framework module TextFieldFormatter {
+  umbrella header "TextFieldFormatter-umbrella.h"
+
+  export *
+  module * { export * }
+}

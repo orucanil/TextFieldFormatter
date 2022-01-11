@@ -1,0 +1,6 @@
+framework module Pods_TextFieldFormatter_Tests {
+  umbrella header "Pods-TextFieldFormatter_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

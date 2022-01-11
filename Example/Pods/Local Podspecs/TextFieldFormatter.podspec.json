@@ -1,0 +1,22 @@
+{
+  "name": "TextFieldFormatter",
+  "version": "0.1.0",
+  "summary": "A short description of TextFieldFormatter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Anil ORUC/TextFieldFormatter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Anil ORUC": "anil.oruc@huawei.com"
+  },
+  "source": {
+    "git": "https://github.com/Anil ORUC/TextFieldFormatter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TextFieldFormatter/Classes/**/*"
+}
